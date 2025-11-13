@@ -6,7 +6,7 @@
  */
 
 //? Below is the command to compile this in windows for my system
-//* gcc .main.c -o game -LC:/msys64/ucrt64/lib -lraylib -lopengl32 -lgdi32 -lwinmm
+//* gcc main.c -o game -LC:/msys64/ucrt64/lib -lraylib -lopengl32 -lgdi32 -lwinmm
 
 #include <stdio.h>
 #include <string.h>
